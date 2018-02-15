@@ -1,0 +1,1974 @@
+<table border="1" cellpadding="1" cellspacing="1" style="width: 465px;">
+<tbody>
+<tr>
+<td style="width: 113px;"><em>1979-80</em></td>
+<td style="width: 197px;"><em>27-8-0</em></td>
+<td style="width: 137px;"><em>Herb Hammond</em></td>
+</tr>
+<tr>
+<td style="width: 113px;">10/27</td>
+<td style="width: 197px;">Clarkson</td>
+<td style="width: 137px;">L, 8-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">10/30</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 6-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/2</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;">W, 6-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/7</td>
+<td style="width: 197px;">Royal Military College</td>
+<td style="width: 137px;">W, 9-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/10</strong></td>
+<td style="width: 197px;"><b>Centennial</b></td>
+<td style="width: 137px;"><strong>W, 9-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/16</strong></td>
+<td style="width: 197px;"><strong>Illinois-Chicago</strong></td>
+<td style="width: 137px;"><strong>W, 8-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/17</strong></td>
+<td style="width: 197px;"><b>Merrimack</b></td>
+<td style="width: 137px;"><b>L, 7-3</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/20</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 6-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/1</strong></td>
+<td style="width: 197px;"><b>Geneseo</b></td>
+<td style="width: 137px;"><strong>W, 5-4 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/4</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">W, 9-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/7</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 4-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/12</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 4-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/15</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 9-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/21</strong></td>
+<td style="width: 197px;"><strong>#Holy Cross</strong></td>
+<td style="width: 137px;"><b>L, 8-3</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/22</strong></td>
+<td style="width: 197px;"><strong>#Hamilton</strong></td>
+<td style="width: 137px;"><b>L, 8-7</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/4</td>
+<td style="width: 197px;">Williams</td>
+<td style="width: 137px;">L, 9-6</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/5</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><strong>W, 10-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/12</td>
+<td style="width: 197px;">Union</td>
+<td style="width: 137px;">L, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/16</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><b>L, 7-5</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/19</strong></td>
+<td style="width: 197px;"><strong>Royal Military College</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/25</strong></td>
+<td style="width: 197px;"><strong>Upsala</strong></td>
+<td style="width: 137px;"><strong>W, 20-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/26</strong></td>
+<td style="width: 197px;"><strong>Upsala</strong></td>
+<td style="width: 137px;"><strong>W, 6-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/30</strong></td>
+<td style="width: 197px;"><b>University of Buffalo</b></td>
+<td style="width: 137px;"><b>W, 5-4 (OT)</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/2</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/6</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 12-6</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/9</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 6-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/13</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 3-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/15</td>
+<td style="width: 197px;">Army</td>
+<td style="width: 137px;">W, 10-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/16</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">L, 6-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/20</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><b>W, 12-3</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/22</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">W, 7-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/23</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">W, 9-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/1</strong></td>
+<td style="width: 197px;"><strong>^Army</strong></td>
+<td style="width: 137px;"><strong>W, 12-6</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/5</strong></td>
+<td style="width: 197px;"><b>^Middlebury</b></td>
+<td style="width: 137px;"><strong>W, 4-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/8</td>
+<td style="width: 197px;">^Plattsburgh</td>
+<td style="width: 137px;">W, 8-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"># - Union Tournament</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;">     </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1980-81</em></td>
+<td style="width: 197px;"><em>26-3-1</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;">10/29</td>
+<td style="width: 197px;">%Colgate (Exhibition)</td>
+<td style="width: 137px;">L, 9-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>10/31 </strong></td>
+<td style="width: 197px;"><strong>Royal Military College</strong></td>
+<td style="width: 137px;"><strong>W, 9-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/8</td>
+<td style="width: 197px;">Royal Military College</td>
+<td style="width: 137px;">W, 11-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/15</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/18</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">W, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/21</strong></td>
+<td style="width: 197px;"><strong>Iowa State</strong></td>
+<td style="width: 137px;"><strong>W, 11-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/22</strong></td>
+<td style="width: 197px;"><strong>Army</strong></td>
+<td style="width: 137px;"><strong>W, 7-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/6</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/9</td>
+<td style="width: 197px;">RPI</td>
+<td style="width: 137px;">W, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/12</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 6-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/19</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 8-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/19</strong></td>
+<td style="width: 197px;"><strong>Middlebury</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/20</td>
+<td style="width: 197px;">Union</td>
+<td style="width: 137px;">W, 6-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/10</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><b>L, 8-7</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/11</strong></td>
+<td style="width: 197px;"><strong>New Haven</strong></td>
+<td style="width: 137px;"><strong>W, 5-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/14</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">W, 3-0</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/17</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 5-4 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/21</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 7-6 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/24</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/28</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 10-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/31</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><strong>W, 6-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/4</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/7</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 8-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/8</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">W, 7-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/11</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">T, 5-5 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/14</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 7-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/18</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/21 </strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 9-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/28</strong></td>
+<td style="width: 197px;"><strong>^Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 6-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/4</strong></td>
+<td style="width: 197px;"><strong>^Norwich</strong></td>
+<td style="width: 137px;"><strong>W, 12-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/7</strong></td>
+<td style="width: 197px;"><strong>^Plattsburgh</strong></td>
+<td style="width: 137px;"><b>L, 7-6</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">% - Game held in Rome, N.Y.</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoff</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;">   </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1981-82</em></td>
+<td style="width: 197px;"><em>21-9-0</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;">10/24</td>
+<td style="width: 197px;">Clarkson</td>
+<td style="width: 137px;">L, 9-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">10/27</td>
+<td style="width: 197px;">Colgate (Exhibition)</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">10/30</td>
+<td style="width: 197px;">Michigan-Dearborn</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">10/31</td>
+<td style="width: 197px;">Michigan-Dearborn</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/13</td>
+<td style="width: 197px;">#Merrimack</td>
+<td style="width: 137px;">L, 6-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/14</td>
+<td style="width: 197px;">#Elmira</td>
+<td style="width: 137px;">W, 9-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/18</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 8-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/20</td>
+<td style="width: 197px;">Army</td>
+<td style="width: 137px;">W, 6-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/4</strong></td>
+<td style="width: 197px;"><b>Holy Cross</b></td>
+<td style="width: 137px;"><strong>W, 8-7</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/5</strong></td>
+<td style="width: 197px;"><strong>Michigan-Dearborn</strong></td>
+<td style="width: 137px;"><b>L, 5-2</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/8</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 8-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/11</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">L, 8-7</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/13</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 8-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/5</td>
+<td style="width: 197px;">%Colgate</td>
+<td style="width: 137px;">L, 9-6</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/9</td>
+<td style="width: 197px;">Union</td>
+<td style="width: 137px;">W, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/12</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/16</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 9-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/17</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">L, 8-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/20</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 5-4 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/22</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 9-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/23</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">L, 3-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/27</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 6-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/30</strong></td>
+<td style="width: 197px;"><b>RIT</b></td>
+<td style="width: 137px;"><strong>W, 6-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/3</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/6</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 5-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/10</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 7-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/13</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 7-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/16</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 14-6</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/19</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">W, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/27</strong></td>
+<td style="width: 197px;"><strong>^Potsdam</strong></td>
+<td style="width: 137px;"><strong>L, 6-5 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/13</td>
+<td style="width: 197px;">&UMass-Lowell</td>
+<td style="width: 137px;">L, 9-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/14</td>
+<td style="width: 197px;">&UMass-Lowell</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"># - Elmira Tournament </td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">% - Held at NYS Fair Ground</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">& - NCAA Tournament</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;">    </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1982-83</em></td>
+<td style="width: 197px;"><em>24-8-1</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;">10/30</td>
+<td style="width: 197px;">Clarkson</td>
+<td style="width: 137px;">L, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/3</td>
+<td style="width: 197px;">Colgate (Exhibition)</td>
+<td style="width: 137px;">L, 5-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/5</strong></td>
+<td style="width: 197px;"><strong>Penn State</strong></td>
+<td style="width: 137px;"><strong>W, 14-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/6</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 6-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/13</td>
+<td style="width: 197px;">Canisius</td>
+<td style="width: 137px;">W, 10-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/17</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 10-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/19</strong></td>
+<td style="width: 197px;"><strong>Army</strong></td>
+<td style="width: 137px;"><strong>T, 3-3 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/1</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 10-6</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/4</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><b>L, 4-2</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/7</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 10-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/10</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><b>L, 7-6</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/13</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><strong>W, 6-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/8</td>
+<td style="width: 197px;">Merrimack</td>
+<td style="width: 137px;">W, 6-5 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/9</td>
+<td style="width: 197px;">New Haven</td>
+<td style="width: 137px;">W, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/12</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">W, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/14</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">W, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/15</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><b>1/19</b></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 9-6</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/21</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/22</strong></td>
+<td style="width: 197px;"><strong>Canisius</strong></td>
+<td style="width: 137px;"><strong>W, 7-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/26</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 10-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/2</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><b>L, 6-5</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/3</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 6-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/5</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 8-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/9</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 6-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/12</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 8-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/15</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 17-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/18</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 12-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/19</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 15-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/26</strong></td>
+<td style="width: 197px;"><strong>^Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 9-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/2</strong></td>
+<td style="width: 197px;"><strong>^Middlebury</strong></td>
+<td style="width: 137px;"><strong>W, 8-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/5</strong></td>
+<td style="width: 197px;"><strong>^Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 9-6</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/11</td>
+<td style="width: 197px;">&UMass-Lowell</td>
+<td style="width: 137px;">L, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/12</td>
+<td style="width: 197px;">&UMass-Lowell</td>
+<td style="width: 137px;">L, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">& - NCAA Tournament</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">    </td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1983-84</em></td>
+<td style="width: 197px;"><em>20-11-0</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>10/23</strong></td>
+<td style="width: 197px;"><strong>SUNY Canton</strong></td>
+<td style="width: 137px;"><strong>W, 5-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">10/25</td>
+<td style="width: 197px;">Colgate (Exhibition)</td>
+<td style="width: 137px;">L, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>10/28</strong></td>
+<td style="width: 197px;"><strong>Centennial</strong></td>
+<td style="width: 137px;"><strong>W, 9-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/4</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 9-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/5</strong></td>
+<td style="width: 197px;"><strong>Guelph</strong></td>
+<td style="width: 137px;"><b>L, 5-3</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/9</td>
+<td style="width: 197px;">St. Lawrence</td>
+<td style="width: 137px;">L, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/11</strong></td>
+<td style="width: 197px;"><strong>Canisius</strong></td>
+<td style="width: 137px;"><strong>W, 8-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/18</td>
+<td style="width: 197px;">Army</td>
+<td style="width: 137px;">L, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/19</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 3-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/3</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 9-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/6</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 8-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/9</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 6-5 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/7</strong></td>
+<td style="width: 197px;"><strong>North Country CC</strong></td>
+<td style="width: 137px;"><strong>W, 8-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/10</td>
+<td style="width: 197px;">Union</td>
+<td style="width: 137px;">W, 5-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/13</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">L, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/14</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 7-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/18</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 5-4 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/21</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 9-6</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/25</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 8-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/27</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><strong>W, 5-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/28</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 9-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/1</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/4</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/7</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">L, 3-0</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/10</td>
+<td style="width: 197px;">Canisius</td>
+<td style="width: 137px;">W, 13-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/11</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 8-6</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/14</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 9-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/17</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 6-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/24</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">L, 6-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/25</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 9-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/29</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><b>L, 5-3</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">N/A</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 13-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">N/A</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">      </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><i>1984-85</i></td>
+<td style="width: 197px;"><em>23-10-0</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>N/A</strong></td>
+<td style="width: 197px;"><strong>Harrah (Exhibition)</strong></td>
+<td style="width: 137px;"><strong>W, 5-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">N/A</td>
+<td style="width: 197px;">SUNY Canton (Exhibition)</td>
+<td style="width: 137px;">W, 9-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>10/25</strong></td>
+<td style="width: 197px;"><strong>SUNY Canton (Exhibition)</strong></td>
+<td style="width: 137px;"><strong>W, 9-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>10/27</strong></td>
+<td style="width: 197px;"><strong>McGill</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/3</td>
+<td style="width: 197px;">Clarkson</td>
+<td style="width: 137px;">L, 9-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/6</td>
+<td style="width: 197px;">Canisius</td>
+<td style="width: 137px;">W, 8-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/9</strong></td>
+<td style="width: 197px;"><strong>American International</strong></td>
+<td style="width: 137px;"><strong>W, 5-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/10</strong></td>
+<td style="width: 197px;"><strong>Salem State</strong></td>
+<td style="width: 137px;"><strong>W, 7-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/14</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 6-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/17</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">L, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/1</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 18-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/4</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 8-0</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/7</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><b>L, 6-4</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/11</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><strong>W, 5-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/14</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><b>L, 3-2</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/5</td>
+<td style="width: 197px;">#American International</td>
+<td style="width: 137px;">W, 4-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/6</td>
+<td style="width: 197px;">#Merrimack</td>
+<td style="width: 137px;">L, 9-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/11</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">W, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/12</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 9-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/15</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">L, 7-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/16</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 9-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/23</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 8-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/29</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 15-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/30</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 20-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/2</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 9-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/5</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 3-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/6</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/8</strong></td>
+<td style="width: 197px;"><strong>Canisius</strong></td>
+<td style="width: 137px;"><strong>W, 9-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/9</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 8-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/12</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/15</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 6-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/22</td>
+<td style="width: 197px;">*Geneseo</td>
+<td style="width: 137px;">W, 3-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/23</td>
+<td style="width: 197px;">*Plattsburgh</td>
+<td style="width: 137px;">L, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/26</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 6-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>3/2</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 5-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/6</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 10-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"># - Merrimack Tournament</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">* - SUNYAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;">   </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1985-86</em></td>
+<td style="width: 197px;"><em>19-12-1</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/1</td>
+<td style="width: 197px;">#Merrimack</td>
+<td style="width: 137px;">L, 8-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/2</td>
+<td style="width: 197px;">#UCONN</td>
+<td style="width: 137px;">L, 6-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/13</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/16</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/20</td>
+<td style="width: 197px;">Canisius</td>
+<td style="width: 137px;">L, 5-4 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/23</td>
+<td style="width: 197px;">Alabama-Huntsville</td>
+<td style="width: 137px;">L, 8-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/24</td>
+<td style="width: 197px;">Alabama-Huntsville</td>
+<td style="width: 137px;">L, 8-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/3</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 3-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/6</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/7</td>
+<td style="width: 197px;">Union</td>
+<td style="width: 137px;">L, 6-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/13</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">W, 7-6</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/14</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 10-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/20</td>
+<td style="width: 197px;">$Williams</td>
+<td style="width: 137px;">W, 4-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">12/21</td>
+<td style="width: 197px;">$Hamilton</td>
+<td style="width: 137px;">W, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/10</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><b>L, 6-5</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/11</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/14</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><b>L, 6-4</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/15</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 7-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/22</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 11-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/25</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 11-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/29</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 11-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/1</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 4-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/4</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>L, 5-4 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/5</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/7</strong></td>
+<td style="width: 197px;"><strong>Canisius</strong></td>
+<td style="width: 137px;"><strong>W, 4-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/8</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">T, 1-1 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/11</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 10-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/14</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><strong>W, 6-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/21</td>
+<td style="width: 197px;">*Potsdam</td>
+<td style="width: 137px;">W, 9-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/22</td>
+<td style="width: 197px;">*Geneseo</td>
+<td style="width: 137px;">L, 3-2 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/25</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">W, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/1</td>
+<td style="width: 197px;">^Union</td>
+<td style="width: 137px;">L, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"># - Potsdam Tournament</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">$ - Hamilton Tournament</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">* - SUNYAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;">  </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1986-87</em></td>
+<td style="width: 197px;"><em>24-12-0</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/7</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/8</strong></td>
+<td style="width: 197px;"><strong>Babson</strong></td>
+<td style="width: 137px;"><b>L, 3-2</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/12</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/15</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">W, 8-7</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/18</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">L, 4-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/21</strong></td>
+<td style="width: 197px;"><strong>North Adams State</strong></td>
+<td style="width: 137px;"><strong>W, 6-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/22</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">W, 3-2 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/28</strong></td>
+<td style="width: 197px;"><strong>Canisius</strong></td>
+<td style="width: 137px;"><strong>W, 11-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/29</td>
+<td style="width: 197px;">North Adams State</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/2</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/5</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><b>L, 6-5</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/6</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><strong>W, 7-6 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/13</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><strong>W, 4-3 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/3</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/10</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 8-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/13</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 8-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/14</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/18</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 8-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/21</strong></td>
+<td style="width: 197px;"><strong>University of Buffalo</strong></td>
+<td style="width: 137px;"><strong>W, 10-6</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/24</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 5-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/28</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 8-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/31</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">L, 7-6</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/4</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">L, 3-0</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/7</td>
+<td style="width: 197px;">University of Buffalo</td>
+<td style="width: 137px;">W, 5-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/10</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 7-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/13</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">L, 7-6</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/20</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 8-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/21</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 4-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/24</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/28</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><strong>W, 4-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/4</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">W, 5-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/7</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/13</td>
+<td style="width: 197px;">&Babson</td>
+<td style="width: 137px;">W, 3-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/14</td>
+<td style="width: 197px;">&Babson</td>
+<td style="width: 137px;">L, 2-1 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/14</td>
+<td style="width: 197px;">!Babson</td>
+<td style="width: 137px;">W, 1-0</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/20</td>
+<td style="width: 197px;">&St. Cloud State</td>
+<td style="width: 137px;">W, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/21</td>
+<td style="width: 197px;">&Plattsburgh</td>
+<td style="width: 137px;">L, 8-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">& - NCAA Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">! - Mini Game</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;">  </td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1987-88</em></td>
+<td style="width: 197px;"><em>20-10-0</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/6</strong></td>
+<td style="width: 197px;"><strong>UCONN</strong></td>
+<td style="width: 137px;"><strong>W, 13-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/7</strong></td>
+<td style="width: 197px;"><strong>Babson</strong></td>
+<td style="width: 137px;"><b>L, 7-5</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/11</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 7-6 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/14</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><b>L, 4-2</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/20</strong></td>
+<td style="width: 197px;"><strong>Fredonia</strong></td>
+<td style="width: 137px;"><strong>W, 13-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/1</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/4</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>L, 5-4 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/9</td>
+<td style="width: 197px;">Hobart</td>
+<td style="width: 137px;">W, 7-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/11</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 11-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">12/12</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/8</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">W, 9-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/13</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 9-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/16</td>
+<td style="width: 197px;">Fredonia</td>
+<td style="width: 137px;">W, 19-4</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/20</strong></td>
+<td style="width: 197px;"><strong>St. Bonaventure</strong></td>
+<td style="width: 137px;"><strong>W, 12-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/23</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 7-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/27</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 10-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/30</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 14-9</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/2</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">W, 4-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/3</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 4-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/5</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 7-6 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/9</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">W, 4-3</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/12</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><strong>L, 5-4 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/16</td>
+<td style="width: 197px;">Union</td>
+<td style="width: 137px;">L, 8-7 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/19</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 8-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/20</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 6-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/27</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>W, 3-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/2</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">W, 7-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/5</td>
+<td style="width: 197px;">^Elmira</td>
+<td style="width: 137px;">L, 8-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/11</td>
+<td style="width: 197px;">&Elmira</td>
+<td style="width: 137px;">L, 6-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/12</td>
+<td style="width: 197px;">&Elmira</td>
+<td style="width: 137px;">L, 10-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">& - NCAA Playoff</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"><em>1988-89</em></td>
+<td style="width: 197px;"><em>18-10-1</em></td>
+<td style="width: 137px;"><em>Don Unger</em></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>10/29</strong></td>
+<td style="width: 197px;"><strong>SUNY Canton (Exhibition)</strong></td>
+<td style="width: 137px;"><strong>W, 8-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/2</strong></td>
+<td style="width: 197px;"><strong>Mercyhurst</strong></td>
+<td style="width: 137px;"><strong>W, 7-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/11</td>
+<td style="width: 197px;">Binghamton</td>
+<td style="width: 137px;">W, 15-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">11/12</td>
+<td style="width: 197px;">Elmira</td>
+<td style="width: 137px;">L, 5-4 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/18</strong></td>
+<td style="width: 197px;"><strong>Fredonia</strong></td>
+<td style="width: 137px;"><strong>W, 8-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>11/19</strong></td>
+<td style="width: 197px;"><strong>Potsdam</strong></td>
+<td style="width: 137px;"><strong>W, 10-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">11/29</td>
+<td style="width: 197px;">Cortland</td>
+<td style="width: 137px;">W, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/2</strong></td>
+<td style="width: 197px;"><strong>Plattsburgh</strong></td>
+<td style="width: 137px;"><strong>W, 6-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/9</strong></td>
+<td style="width: 197px;"><strong>Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 5-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>12/10</strong></td>
+<td style="width: 197px;"><strong>RIT</strong></td>
+<td style="width: 137px;"><b>L, 7-4</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/6</td>
+<td style="width: 197px;">Potsdam</td>
+<td style="width: 137px;">L, 5-4 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;">1/7</td>
+<td style="width: 197px;">Plattsburgh</td>
+<td style="width: 137px;">L, 9-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/11</strong></td>
+<td style="width: 197px;"><strong>Brockport</strong></td>
+<td style="width: 137px;"><strong>W, 8-5</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/14</td>
+<td style="width: 197px;">Fredonia</td>
+<td style="width: 137px;">W, 11-1</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/18</strong></td>
+<td style="width: 197px;"><strong>Hobart</strong></td>
+<td style="width: 137px;"><strong>W, 4-3</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/21</strong></td>
+<td style="width: 197px;"><strong>Hamilton</strong></td>
+<td style="width: 137px;"><strong>L, 3-2 (OT)</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/25</strong></td>
+<td style="width: 197px;"><strong>Cortland</strong></td>
+<td style="width: 137px;"><strong>W, 8-2</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>1/27</strong></td>
+<td style="width: 197px;"><strong>St. Bonaventure</strong></td>
+<td style="width: 137px;"><strong>W, 16-1</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">1/28</td>
+<td style="width: 197px;">Geneseo</td>
+<td style="width: 137px;">W, 6-4</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/1</td>
+<td style="width: 197px;">Hamilton</td>
+<td style="width: 137px;">L, 7-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/3</strong></td>
+<td style="width: 197px;"><strong>Elmira</strong></td>
+<td style="width: 137px;"><b>L, 7-4</b></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/4</strong></td>
+<td style="width: 197px;"><strong>Binghamton</strong></td>
+<td style="width: 137px;"><strong>W, 17-0</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/10</td>
+<td style="width: 197px;">RIT</td>
+<td style="width: 137px;">W, 5-3</td>
+</tr>
+<tr>
+<td style="width: 113px;">2/11</td>
+<td style="width: 197px;">Brockport</td>
+<td style="width: 137px;">T, 6-6 (OT)</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/14</strong></td>
+<td style="width: 197px;"><strong>Union</strong></td>
+<td style="width: 137px;"><b>L, 7-1</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">2/17</td>
+<td style="width: 197px;">*Cortland</td>
+<td style="width: 137px;">W, 6-5</td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>2/18</strong></td>
+<td style="width: 197px;"><strong>*Geneseo</strong></td>
+<td style="width: 137px;"><strong>W, 5-4</strong></td>
+</tr>
+<tr>
+<td style="width: 113px;"><strong>N/A</strong></td>
+<td style="width: 197px;"><strong>^Elmira</strong></td>
+<td style="width: 137px;"><b>L, 8-3</b></td>
+</tr>
+<tr>
+<td style="width: 113px;">3/10</td>
+<td style="width: 197px;">&RIT</td>
+<td style="width: 137px;">W, 7-5</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/10</td>
+<td style="width: 197px;">&RIT</td>
+<td style="width: 137px;">L, 4-1</td>
+</tr>
+<tr>
+<td style="width: 113px;">3/11</td>
+<td style="width: 197px;">!RIT</td>
+<td style="width: 137px;">L, 5-2</td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">* - SUNYAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">^ - ECAC Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">& - NCAA Playoffs</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;">! - Mini Game</td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+<tr>
+<td style="width: 113px;"></td>
+<td style="width: 197px;"></td>
+<td style="width: 137px;"></td>
+</tr>
+</tbody>
+</table>

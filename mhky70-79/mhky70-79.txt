@@ -1,0 +1,1529 @@
+<table cellpadding="1" cellspacing="1" style="width: 504px;">
+	<tbody>
+		<tr>
+			<td style="width: 114px;"><strong><u>Date</u></strong></td>
+			<td style="width: 255px;"><strong><u>Opponent</u></strong></td>
+			<td style="width: 117px;"><strong><u>Score</u></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1969-70</em></td>
+			<td style="width: 255px;"><em>12-11-0</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/30</strong></td>
+			<td style="width: 255px;"><strong>Guelph</strong></td>
+			<td style="width: 117px;"><strong>W, 5-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/5</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">L, 4-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/6</strong></td>
+			<td style="width: 255px;"><strong>Sir George Williams</strong></td>
+			<td style="width: 117px;"><b>L, 5-4</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/11</td>
+			<td style="width: 255px;">Ithaca </td>
+			<td style="width: 117px;">W, 11-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/21</td>
+			<td style="width: 255px;">Salem State</td>
+			<td style="width: 117px;">L, 5-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/22</td>
+			<td style="width: 255px;">Boston College</td>
+			<td style="width: 117px;">L, 11-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/2</td>
+			<td style="width: 255px;">Williams</td>
+			<td style="width: 117px;">W, 9-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/3</td>
+			<td style="width: 255px;">Middlebury</td>
+			<td style="width: 117px;">L, 2-1(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/7   </strong></td>
+			<td style="width: 255px;"><strong>R.I.T.</strong></td>
+			<td style="width: 117px;"><strong>W, 10-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/10</strong></td>
+			<td style="width: 255px;"><strong>Macdonald</strong></td>
+			<td style="width: 117px;"><strong>W, 10-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/14</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><strong>W, 7-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/17</td>
+			<td style="width: 255px;">Colgate</td>
+			<td style="width: 117px;">L, 8-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/30</td>
+			<td style="width: 255px;">York</td>
+			<td style="width: 117px;">L, 7-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/31</td>
+			<td style="width: 255px;">Ryerson Tech</td>
+			<td style="width: 117px;">L, 7-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/3</strong></td>
+			<td style="width: 255px;"><strong>Queen's University</strong></td>
+			<td style="width: 117px;"><b>L, 5-0</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/7</strong></td>
+			<td style="width: 255px;"><strong>Salem State</strong></td>
+			<td style="width: 117px;"><strong>W, 5-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/11</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 7-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/14</strong></td>
+			<td style="width: 255px;"><strong>Boston State</strong></td>
+			<td style="width: 117px;"><strong>W, 8-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/18</td>
+			<td style="width: 255px;">R.I.T.</td>
+			<td style="width: 117px;">W, 10-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/21</strong></td>
+			<td style="width: 255px;"><strong>American International</strong></td>
+			<td style="width: 117px;"><strong>W, 9-6</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/24</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><b>L, 9-2</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/28</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">W, 6-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">3/4</td>
+			<td style="width: 255px;">R.P.I.</td>
+			<td style="width: 117px;">L, 5-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">   </td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1970-71</em></td>
+			<td style="width: 255px;"><em>9-12-0</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/29</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><b>L, 6-4</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/5</td>
+			<td style="width: 255px;">American International</td>
+			<td style="width: 117px;">W, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/9</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 7-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/10</strong></td>
+			<td style="width: 255px;"><strong>Colgate (EXH)</strong></td>
+			<td style="width: 117px;"><b>L, 7-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>n/a</strong></td>
+			<td style="width: 255px;"><strong>Queen's University</strong></td>
+			<td style="width: 117px;"><b>L, 3-1</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/21</td>
+			<td style="width: 255px;">Salem State</td>
+			<td style="width: 117px;">L, 6-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/22</td>
+			<td style="width: 255px;">Boston State</td>
+			<td style="width: 117px;">L, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/28</td>
+			<td style="width: 255px;">#Williams</td>
+			<td style="width: 117px;">W, 2-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/29</td>
+			<td style="width: 255px;">#Middlebury</td>
+			<td style="width: 117px;">W, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/30</td>
+			<td style="width: 255px;">#Hamilton</td>
+			<td style="width: 117px;">W, 9-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"><strong>GAME MISSING HERE</strong></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/12</td>
+			<td style="width: 255px;">Hamilton </td>
+			<td style="width: 117px;">L, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/16</strong></td>
+			<td style="width: 255px;"><strong>U of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 6-5(OT)</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"><strong>2 GAMES MISSING HERE</strong></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/30</strong></td>
+			<td style="width: 255px;"><strong>York</strong></td>
+			<td style="width: 117px;"><strong>W, 5-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/4</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 8-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/9</td>
+			<td style="width: 255px;">Colgate</td>
+			<td style="width: 117px;">L, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/16</strong></td>
+			<td style="width: 255px;"><strong>Queen's University</strong></td>
+			<td style="width: 117px;"><b>L, 5-4</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/20</td>
+			<td style="width: 255px;">U of Buffalo</td>
+			<td style="width: 117px;">L, 5-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/26</strong></td>
+			<td style="width: 255px;"><strong>Salem State</strong></td>
+			<td style="width: 117px;"><strong>W, 5-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>3/3</strong></td>
+			<td style="width: 255px;"><strong>R.P.I.</strong></td>
+			<td style="width: 117px;"><b>L, 5-4</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"># - Williams Tournament</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">   </td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1971-72</em></td>
+			<td style="width: 255px;"><em>8-14-1</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/15</td>
+			<td style="width: 255px;">Canton</td>
+			<td style="width: 117px;">W, 5-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/21</td>
+			<td style="width: 255px;">Trent</td>
+			<td style="width: 117px;">L, 8-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/28</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">L, 5-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/3</td>
+			<td style="width: 255px;">U of Buffalo</td>
+			<td style="width: 117px;">L, 5-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/7</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 5-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/10</td>
+			<td style="width: 255px;">Williams</td>
+			<td style="width: 117px;">L, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/11</td>
+			<td style="width: 255px;">American International</td>
+			<td style="width: 117px;">L, 10-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/19</td>
+			<td style="width: 255px;">Boston State</td>
+			<td style="width: 117px;">L, 10-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/20</td>
+			<td style="width: 255px;">Salem State</td>
+			<td style="width: 117px;">L, 9-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/28</td>
+			<td style="width: 255px;">UMASS-Amherst</td>
+			<td style="width: 117px;">L, 2-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/29</td>
+			<td style="width: 255px;">Williams</td>
+			<td style="width: 117px;">L, 7-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/30</td>
+			<td style="width: 255px;">Colby</td>
+			<td style="width: 117px;">L, 5-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/6</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><strong>W, 6-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/8</strong></td>
+			<td style="width: 255px;"><strong>Macdonald</strong></td>
+			<td style="width: 117px;"><strong>W, 10-0</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/9</strong></td>
+			<td style="width: 255px;"><strong>Macdonald</strong></td>
+			<td style="width: 117px;"><strong>W, 5-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/13</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><b>L, 2-1</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/29</strong></td>
+			<td style="width: 255px;"><strong>Trent</strong></td>
+			<td style="width: 117px;"><strong>W, 11-6</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/9</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 11-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/11</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><b>L, 8-1</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/13</strong></td>
+			<td style="width: 255px;"><strong>U of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 8-7(OT)</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/23</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">L, 7-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/28</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">L, 3-2(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/29</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">T, 4-4(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">  </td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1972-73</em></td>
+			<td style="width: 255px;"><em>18-5-2</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/15</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">W, 10-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/18</strong></td>
+			<td style="width: 255px;"><strong>SUNY Canton (EXH)</strong></td>
+			<td style="width: 117px;"><b>L, 6-5</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/29</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 9-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/2</strong></td>
+			<td style="width: 255px;"><strong>New England</strong></td>
+			<td style="width: 117px;"><strong>W, 5-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/6</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><strong>W, 6-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/10</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 3-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/13</td>
+			<td style="width: 255px;">Colgate</td>
+			<td style="width: 117px;">L, 7-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/27</td>
+			<td style="width: 255px;">Colby</td>
+			<td style="width: 117px;">T, 7-7(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/28</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">W, 6-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">W, 3-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/12</td>
+			<td style="width: 255px;">Macdonald</td>
+			<td style="width: 117px;">W, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/13</td>
+			<td style="width: 255px;">Loyola (EXH)</td>
+			<td style="width: 117px;">L, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/20</strong></td>
+			<td style="width: 255px;"><strong>U of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 9-6</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/24</strong></td>
+			<td style="width: 255px;"><strong>R.I.T.</strong></td>
+			<td style="width: 117px;"><strong>W, 7-6</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/27</td>
+			<td style="width: 255px;">Merrimack</td>
+			<td style="width: 117px;">L, 8-7</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/28</td>
+			<td style="width: 255px;">UMASS-Lowell</td>
+			<td style="width: 117px;">W, 7-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/6</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">W, 5-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">Trent</td>
+			<td style="width: 117px;">W, 12-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/11</strong></td>
+			<td style="width: 255px;"><strong>American International</strong></td>
+			<td style="width: 117px;"><b>L, 6-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/13</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 6-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/16</td>
+			<td style="width: 255px;">New England</td>
+			<td style="width: 117px;">W, 3-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/17</td>
+			<td style="width: 255px;">American International</td>
+			<td style="width: 117px;">T, 3-3(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/21</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><b>L, 11-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/24</td>
+			<td style="width: 255px;">U of Buffalo</td>
+			<td style="width: 117px;">W, 7-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/25</td>
+			<td style="width: 255px;">U of Buffalo</td>
+			<td style="width: 117px;">W, 7-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/29</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">L, 9-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>3/1</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 7-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">   </td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1973-74</em></td>
+			<td style="width: 255px;"><em>14-11-0</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/2</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><b>L, 4-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/3</strong></td>
+			<td style="width: 255px;"><strong>Laurentian</strong></td>
+			<td style="width: 117px;"><strong>L, 5-4(OT)</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/14</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">W, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/20</td>
+			<td style="width: 255px;">U of Buffalo</td>
+			<td style="width: 117px;">L, 8-6</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/1</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 8-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">W, 5-4(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/8</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/12</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><b>L, 6-2</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>n/a</strong></td>
+			<td style="width: 255px;"><strong>Waterloo</strong></td>
+			<td style="width: 117px;"><b>L, 9-0</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>n/a</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><strong>W, 4-3(OT)</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>n/a</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><b>L, 4-2</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">St. Lawrence</td>
+			<td style="width: 117px;">L, 9-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/19</strong></td>
+			<td style="width: 255px;"><strong>New England</strong></td>
+			<td style="width: 117px;"><strong>W, 5-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/23</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 9-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/27</strong></td>
+			<td style="width: 255px;"><strong>R.I.T.</strong></td>
+			<td style="width: 117px;"><strong>W, 9-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/31</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><strong>W, 5-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/3</strong></td>
+			<td style="width: 255px;"><strong>New Haven</strong></td>
+			<td style="width: 117px;"><strong>W, 6-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/9</td>
+			<td style="width: 255px;">Colgate</td>
+			<td style="width: 117px;">L, 9-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">Brockport</td>
+			<td style="width: 117px;">W, 8-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">American International</td>
+			<td style="width: 117px;">W, 7-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>n/a</strong></td>
+			<td style="width: 255px;"><strong>New England</strong></td>
+			<td style="width: 117px;"><b>L, 6-5</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">St. Anselm</td>
+			<td style="width: 117px;">L, 11-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/22</strong></td>
+			<td style="width: 255px;"><strong>U of Buffalo</strong></td>
+			<td style="width: 117px;"><b>L, 11-2</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/23</strong></td>
+			<td style="width: 255px;"><strong>U of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 5-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">n/a</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 6-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">   </td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1974-75</em></td>
+			<td style="width: 255px;"><em>15-8-1</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/16</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><strong>W, 8-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/20</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">W, 7-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/25</strong></td>
+			<td style="width: 255px;"><strong>Elmira</strong></td>
+			<td style="width: 117px;"><strong>W, 8-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/2</strong></td>
+			<td style="width: 255px;"><strong>U of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 8-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/4</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><strong>L, 6-5(OT)</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/11</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 12-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/14</td>
+			<td style="width: 255px;">Colgate</td>
+			<td style="width: 117px;">L, 5-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/21</td>
+			<td style="width: 255px;">#Army</td>
+			<td style="width: 117px;">W, 5-4(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/22</td>
+			<td style="width: 255px;">#Hamilton</td>
+			<td style="width: 117px;">L, 5-4(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/16</strong></td>
+			<td style="width: 255px;"><strong>R.I.T.</strong></td>
+			<td style="width: 117px;"><strong>W, 7-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/18</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">L, 9-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/22</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><b>L, 8-7</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/29</strong></td>
+			<td style="width: 255px;"><strong>R.I.T.</strong></td>
+			<td style="width: 117px;"><strong>W, 7-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/1</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 2-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/4</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 5-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/7</strong></td>
+			<td style="width: 255px;"><strong>Army</strong></td>
+			<td style="width: 117px;"><b>L, 5-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/9</strong></td>
+			<td style="width: 255px;"><strong>American International</strong></td>
+			<td style="width: 117px;"><strong>W, 6-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/15</td>
+			<td style="width: 255px;">Merrimack</td>
+			<td style="width: 117px;">L, 5-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/16</td>
+			<td style="width: 255px;">Framington</td>
+			<td style="width: 117px;">W, 8-7</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/18</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><b>L, 6-4</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/21</td>
+			<td style="width: 255px;">U of Buffalo</td>
+			<td style="width: 117px;">W, 6-5(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/22</td>
+			<td style="width: 255px;">U of Buffalo </td>
+			<td style="width: 117px;">W, 6-5(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/25</td>
+			<td style="width: 255px;">Elmira</td>
+			<td style="width: 117px;">T, 3-3(OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">3/1</td>
+			<td style="width: 255px;">Brockport</td>
+			<td style="width: 117px;">W, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"># - Elmira Tournament </td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">      </td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1975-76</em></td>
+			<td style="width: 255px;"><em>18-7-1</em></td>
+			<td style="width: 117px;">Herb Hammond</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/16</td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;">W, 8-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/19</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">W, 5-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/22</td>
+			<td style="width: 255px;">University of Buffalo</td>
+			<td style="width: 117px;">T, 4-4 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/24</strong></td>
+			<td style="width: 255px;"><strong>Elmira</strong></td>
+			<td style="width: 117px;"><strong>W, 9-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/3</td>
+			<td style="width: 255px;">RIT</td>
+			<td style="width: 117px;">W, 5-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/6</td>
+			<td style="width: 255px;">#Hamilton</td>
+			<td style="width: 117px;">W, 7-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/7</td>
+			<td style="width: 255px;">#New England</td>
+			<td style="width: 117px;">W, 7-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/9</strong></td>
+			<td style="width: 255px;"><strong>Ithaca</strong></td>
+			<td style="width: 117px;"><strong>W, 5-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/13</td>
+			<td style="width: 255px;">Brockport</td>
+			<td style="width: 117px;">L, 5-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/16</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">L, 8-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/17</strong></td>
+			<td style="width: 255px;"><strong>RIT</strong></td>
+			<td style="width: 117px;"><strong>W, 7-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/20</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 9-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/24</strong></td>
+			<td style="width: 255px;"><strong>New England</strong></td>
+			<td style="width: 117px;"><strong>W, 8-1</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/27</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><strong>W, 7-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/31</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">W, 5-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/4</td>
+			<td style="width: 255px;">Ithaca</td>
+			<td style="width: 117px;">W, 5-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/7</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 11-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/10</td>
+			<td style="width: 255px;">Elmira</td>
+			<td style="width: 117px;">W, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/13</strong></td>
+			<td style="width: 255px;"><strong>University of Buffalo</strong></td>
+			<td style="width: 117px;"><b>L, 7-6</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/14</strong></td>
+			<td style="width: 255px;"><strong>University of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 9-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/18</strong></td>
+			<td style="width: 255px;"><strong>Colgate</strong></td>
+			<td style="width: 117px;"><strong>W, 10-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/21</td>
+			<td style="width: 255px;">American International</td>
+			<td style="width: 117px;">L, 10-6</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/22</td>
+			<td style="width: 255px;">New Haven</td>
+			<td style="width: 117px;">L, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/27</td>
+			<td style="width: 255px;">^Bowdoin</td>
+			<td style="width: 117px;">L, 7-6</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/28</td>
+			<td style="width: 255px;">^Colby</td>
+			<td style="width: 117px;">W, 9-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">3/6</td>
+			<td style="width: 255px;">&Salem</td>
+			<td style="width: 117px;">L, 3-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"># - Elmira Tournament</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">^ - Playoffs in Hamilton</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">& - Playoffs in Buffalo</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">     </td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1976-77</em></td>
+			<td style="width: 255px;"><em>13-12-0</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/13</strong></td>
+			<td style="width: 255px;"><strong>#Plattsburgh</strong></td>
+			<td style="width: 117px;"><strong>W, 6-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/14</strong></td>
+			<td style="width: 255px;"><strong>#Cortland</strong></td>
+			<td style="width: 117px;"><strong>W, 6-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/17</strong></td>
+			<td style="width: 255px;"><strong>University of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 4-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/21</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><strong>W, 8-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/30</td>
+			<td style="width: 255px;">Cortland</td>
+			<td style="width: 117px;">W, 7-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/4</td>
+			<td style="width: 255px;">^University of Buffalo</td>
+			<td style="width: 117px;">L, 6-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/6</td>
+			<td style="width: 255px;">^Plattsburgh</td>
+			<td style="width: 117px;">W, 8-6</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/7</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><b>L, 6-2</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/11</td>
+			<td style="width: 255px;">Brockport</td>
+			<td style="width: 117px;">W, 5-4 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/14</td>
+			<td style="width: 255px;">Union</td>
+			<td style="width: 117px;">L, 12-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/29</strong></td>
+			<td style="width: 255px;"><strong>North Adams State</strong></td>
+			<td style="width: 117px;">W, 6-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/30</td>
+			<td style="width: 255px;">Williams</td>
+			<td style="width: 117px;">W, 5-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/19</td>
+			<td style="width: 255px;">Elmira</td>
+			<td style="width: 117px;">L, 8-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/22</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">L, 4-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/25</strong></td>
+			<td style="width: 255px;"><strong>Potsdam</strong></td>
+			<td style="width: 117px;">W, 8-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/31</strong></td>
+			<td style="width: 255px;"><strong>Elmira</strong></td>
+			<td style="width: 117px;">L, 5-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/8</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 7-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/12</td>
+			<td style="width: 255px;">University of Buffalo</td>
+			<td style="width: 117px;">L, 4-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/13</td>
+			<td style="width: 255px;">University of Buffalo</td>
+			<td style="width: 117px;">L, 8-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/16</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">L, 6-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/19</td>
+			<td style="width: 255px;">Plattsburgh</td>
+			<td style="width: 117px;">W, 5-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/23</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">L, 8-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/25</td>
+			<td style="width: 255px;">Bowdoin</td>
+			<td style="width: 117px;">L, 6-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/26</td>
+			<td style="width: 255px;">Colby</td>
+			<td style="width: 117px;">W, 3-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">3/1</td>
+			<td style="width: 255px;">Union</td>
+			<td style="width: 117px;">L, 9-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"># - SUNY Tournament</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">^ - Elmira Tournament</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">      </td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1977-78</em></td>
+			<td style="width: 255px;"><em>18-9-0</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/11</strong></td>
+			<td style="width: 255px;"><strong>Bridgewater State</strong></td>
+			<td style="width: 117px;"><strong>W, 8-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/12</strong></td>
+			<td style="width: 255px;"><strong>New Haven</strong></td>
+			<td style="width: 117px;"><strong>W, 7-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/16</td>
+			<td style="width: 255px;">University of Buffalo</td>
+			<td style="width: 117px;">L, 7-6 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/19</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><strong>W, 12-7</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/4</strong></td>
+			<td style="width: 255px;"><strong>Geneseo</strong></td>
+			<td style="width: 117px;"><strong>W, 10-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/6</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><strong>W, 7-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/10</td>
+			<td style="width: 255px;">Brockport</td>
+			<td style="width: 117px;">W, 10-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/14</td>
+			<td style="width: 255px;">Cortland</td>
+			<td style="width: 117px;">W, 8-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/29</td>
+			<td style="width: 255px;">#Hamilton</td>
+			<td style="width: 117px;">W, 6-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/30</td>
+			<td style="width: 255px;">#Williams</td>
+			<td style="width: 117px;">W, 3-2 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/6</td>
+			<td style="width: 255px;">^Holy Cross</td>
+			<td style="width: 117px;">L, 5-3</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/7</td>
+			<td style="width: 255px;">^University of Buffalo</td>
+			<td style="width: 117px;">W, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/7</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><strong>W, 5-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/19</td>
+			<td style="width: 255px;">Elmira</td>
+			<td style="width: 117px;">L, 4-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/22</strong></td>
+			<td style="width: 255px;"><strong>Potsdam</strong></td>
+			<td style="width: 117px;"><strong>W, 9-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/25</strong></td>
+			<td style="width: 255px;"><strong>Cortland</strong></td>
+			<td style="width: 117px;">W, 11-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/28</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">L, 5-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/31</td>
+			<td style="width: 255px;">Geneseo</td>
+			<td style="width: 117px;">W, 4-3 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/4</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 10-0</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><b>2/9</b></td>
+			<td style="width: 255px;"><strong>Elmira</strong></td>
+			<td style="width: 117px;"><strong>W, 5-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/11</strong></td>
+			<td style="width: 255px;"><strong>University of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 8-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/14</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">W, 5-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/18</strong></td>
+			<td style="width: 255px;"><strong>Plattsburgh</strong></td>
+			<td style="width: 117px;"><b>L, 5-2</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/20</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">L, 8-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/25</td>
+			<td style="width: 255px;">Plattsburgh</td>
+			<td style="width: 117px;">L, 7-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/26</td>
+			<td style="width: 255px;">Potsdam</td>
+			<td style="width: 117px;">L, 3-2 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>3/4</strong></td>
+			<td style="width: 255px;"><strong>Norwich</strong></td>
+			<td style="width: 117px;"><b>L, 5-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"># - Williams Tournament</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">^ - Merrimack</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">     </td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><em>1978-79</em></td>
+			<td style="width: 255px;"><em>13-15-0</em></td>
+			<td style="width: 117px;"><em>Herb Hammond</em></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/3</td>
+			<td style="width: 255px;">St. Lawrence</td>
+			<td style="width: 117px;">L, 9-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/8</td>
+			<td style="width: 255px;">Royal Military College</td>
+			<td style="width: 117px;">W, 11-8</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/11</strong></td>
+			<td style="width: 255px;"><b>Centennial (Exhibition)</b></td>
+			<td style="width: 117px;"><b>L, 5-1</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/15</td>
+			<td style="width: 255px;">Cortland</td>
+			<td style="width: 117px;">W, 12-5</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/17</strong></td>
+			<td style="width: 255px;"><strong>Bryant</strong></td>
+			<td style="width: 117px;"><strong>W, 11-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>11/18</strong></td>
+			<td style="width: 255px;"><strong>St. Anselm</strong></td>
+			<td style="width: 117px;"><b>L, 6-4</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">11/21</td>
+			<td style="width: 255px;">Potsdam</td>
+			<td style="width: 117px;">L, 3-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/1</td>
+			<td style="width: 255px;">University of Buffalo</td>
+			<td style="width: 117px;">W, 6-5 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/2</td>
+			<td style="width: 255px;">Geneseo</td>
+			<td style="width: 117px;">W, 7-6</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/5</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">W, 7-6</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/8</strong></td>
+			<td style="width: 255px;"><strong>Brockport</strong></td>
+			<td style="width: 117px;"><strong>W, 4-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/13</strong></td>
+			<td style="width: 255px;"><strong>Cortland</strong></td>
+			<td style="width: 117px;"><strong>W, 4-2</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/16</td>
+			<td style="width: 255px;">Plattsburgh</td>
+			<td style="width: 117px;">L, 7-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>12/29</strong></td>
+			<td style="width: 255px;"><strong>New Haven</strong></td>
+			<td style="width: 117px;"><b>L, 4-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">12/30</td>
+			<td style="width: 255px;">Hamilton</td>
+			<td style="width: 117px;">L, 10-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/13</strong></td>
+			<td style="width: 255px;"><strong>Union</strong></td>
+			<td style="width: 117px;"><strong>W, 8-4</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/17</td>
+			<td style="width: 255px;">Elmira</td>
+			<td style="width: 117px;">L, 10-4</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">1/20</td>
+			<td style="width: 255px;">Army</td>
+			<td style="width: 117px;">W, 4-1</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>1/31</strong></td>
+			<td style="width: 255px;"><strong>Geneseo</strong></td>
+			<td style="width: 117px;"><strong>W, 7-5</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/3</strong></td>
+			<td style="width: 255px;"><strong>Royal Military College</strong></td>
+			<td style="width: 117px;"><b>L, 6-5</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/6</strong></td>
+			<td style="width: 255px;"><strong>Elmira</strong></td>
+			<td style="width: 117px;"><strong>L, 7-6 (OT)</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/10</strong></td>
+			<td style="width: 255px;"><strong>University of Buffalo</strong></td>
+			<td style="width: 117px;"><strong>W, 7-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/14</strong></td>
+			<td style="width: 255px;"><strong>Hamilton</strong></td>
+			<td style="width: 117px;"><b>L, 5-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/17</td>
+			<td style="width: 255px;">Westfield State</td>
+			<td style="width: 117px;">L, 3-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/18</td>
+			<td style="width: 255px;">Merrimack</td>
+			<td style="width: 117px;">L, 7-0</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">2/21</td>
+			<td style="width: 255px;">Brockport</td>
+			<td style="width: 117px;">L, 3-2 (OT)</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/23</strong></td>
+			<td style="width: 255px;"><strong>Plattsburgh</strong></td>
+			<td style="width: 117px;"><b>L, 5-3</b></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"><strong>2/25</strong></td>
+			<td style="width: 255px;"><strong>Potsdam</strong></td>
+			<td style="width: 117px;"><strong>W, 15-3</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;">3/4</td>
+			<td style="width: 255px;">^Middlebury</td>
+			<td style="width: 117px;">L, 7-2</td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;">^ - ECAC Playoffs</td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+		<tr>
+			<td style="width: 114px;"></td>
+			<td style="width: 255px;"></td>
+			<td style="width: 117px;"></td>
+		</tr>
+	</tbody>
+</table>
